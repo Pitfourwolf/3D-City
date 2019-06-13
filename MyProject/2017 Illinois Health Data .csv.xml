@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20190610</CreaDate><CreaTime>14465100</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\users\gisadmin\appdata\local\programs\arcgis\pro\Resources\ArcToolbox\toolboxes\Data Management Tools.tbx\AddRelate" Date="20190610" Time="144651">AddRelate "2017 Illinois Health Data .csv" FIPS illinois_cnty illinois_cnty.FIPS_CODE Relate1 "One to one"</Process></lineage></DataProperties></Esri></metadata>
